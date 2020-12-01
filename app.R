@@ -18,7 +18,7 @@ library(plotly)
 
 #change level or timePeriod
 level1 <- "10"
-pathIn <- "/home/glaroc/OneDrive/ResNet/datasets/Sugar Maple/"
+#pathIn <- "/home/glaroc/OneDrive/ResNet/datasets/Sugar Maple/"
 
 #tabES <- read.csv(paste0(pathIn,"networks/tables/tabES_",level1,".csv"), stringsAsFactors = F)
 
